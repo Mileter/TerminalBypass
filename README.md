@@ -1,3 +1,12 @@
+List of Contents\
+[Terminal Bypass](#terminal-bypass)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Apple MacOS](#terminal-bypass-for-macos)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft Windows](#terminal-bypass-for-windows)\
+[Frequently Asked Questions (FAQ)](#faq)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[What about Linux?](#what-about-linux)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[My Mac does not support the 64-bit architecture. What do I do now?](#my-mac-does-not-support-the-64-bit-architecture-what-do-i-do-now)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[My Windows device does not allow me to open the file!](#my-windows-device-does-not-allow-me-to-open-the-file)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[My question was not covered, what do I do now?](#my-question-was-not-covered-what-do-i-do-now)
 # Terminal Bypass
 ## Terminal Bypass for MacOS
 All respects to Apple, the creator of this application.\
