@@ -1,2 +1,2 @@
-# TerminalBypass
-A Terminal for macOS application.
+# Terminal Bypass for MacOS
+All respects to Apple, the creator of this application.
